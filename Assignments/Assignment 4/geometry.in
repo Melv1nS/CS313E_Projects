@@ -1,0 +1,17 @@
+-3.0 2.0 1.0
+2.0 -1.0 3.0
+2.0 1.0 3.0 4.0
+-1.0 -2.0 -3.0 5.0
+2.0 1.0 -3.0 4.0
+3.0 2.0 -4.0 3.0
+-2.0 1.0 -3.0 5.0 4.0
+1.0 5.0 3.0 4.0 2.0
+
+# coordinates of p
+# coordinates of q
+# center and radius of sphereA
+# center and radius of sphereB
+# center and side of cubeA
+# center and side of cubeB
+# center, radius, and height of cylA
+# center, radius, and height of cylB

@@ -1,0 +1,14 @@
+randomPoint = Point(100,100,100)
+
+sphere_test = Sphere(0,0,0,2)
+sphere_test2 = Sphere(20,0,0,1)
+cube_test = Cube(0,0,0,4)
+cube_test2 = Cube(0,0,0,2)
+cyl_test = Cylinder(0,0,0,4,5)
+cyl_test2 = Cylinder(0,0,0,1,1)
+
+print(cyl_test.is_inside_point(randomPoint))
+
+print(sphere_test.is_inside_point(origin))
+
+print(sphere_test.is_inside_sphere(sphere_test2))
